@@ -7,7 +7,7 @@ This project uses the **Enquête Conditions de Travail 2016** (Working Condition
 - **Official name:** Enquête CT-RPS 2016 (Conditions de Travail et Risques Psychosociaux)
 - **Producer:** DARES / DREES
 - **Year:** 2016
-- **Access:** Available upon request via [ADISP-PROGEDO](https://www.progedo-adisp.fr/) or the French data catalogue [Réseau Quetelet](https://www.reseau-quetelet.cnrs.fr/)
+- **Access:** Available upon request via [[ADISP-PROGEDO](https://www.progedo-adisp.fr/)](https://data.progedo.dev/studies/doi/10.13144/lil-1232?tab=details) or the French data catalogue [Réseau Quetelet](https://www.reseau-quetelet.cnrs.fr/)
 
 ## Why the data is not included
 
